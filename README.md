@@ -2,20 +2,20 @@
 
 | Field | Value |
 |---|---|
-| **Full name** | Benjamin Figueroa |
+| **Full name** | Benjamin Ignacio Pinto Faúndez |
 | **GitHub username** | Elm3rFgr0a |
 | **Course** | IIT414W |
 | **Date** | March 11, 2026 |
 
 ---
-
+  
 ## System info
 
 | Property | Value |
 |---|---|
 | Operating system | Windows 11 (Build 22631) |
 | Python version | 3.10 (managed by conda) |
-| Conda version | 24.x (`conda --version` to confirm) |
+| Conda version | 24.1.1 |
 
 ---
 
